@@ -1,5 +1,9 @@
 # Lenovo-B50-80-Big-Sur-Hackintosh-OpenCore
-Lenovo B50-80
+
+<p align="center">
+  <img src="Screenshot 2021-01-30 at 19.18.14.png" alt="Specs">
+</p>
+
 
 ## Specs:
 
